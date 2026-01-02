@@ -5,7 +5,7 @@
 ---
 
 ## 🔗 Live Preview
-> _(To be added after deployment – Vercel / GitHub Pages)_
+> (https://siddeshwarsharma-portfolio.netlify.app/)
 
 ---
 
